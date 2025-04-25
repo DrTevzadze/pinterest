@@ -1,0 +1,17 @@
+.pinContainer {
+  border-radius: 6px;
+  background-color: red;
+  margin: 6px;
+}
+
+.small {
+  grid-row-end: span 26;
+}
+
+.medium {
+  grid-row-end: span 33;
+}
+
+.large {
+  grid-row-end: span 45;
+}
